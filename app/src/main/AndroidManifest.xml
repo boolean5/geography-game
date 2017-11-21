@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.georgia.g1" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/appicon1"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="    Geography Game"
+            android:logo="@drawable/appicon1" >
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.MAIN"
+                    android:icon="@drawable/appicon1" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".About"
+            android:label="    About"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.georgia.g1.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Play"
+            android:label="    Geography Game"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.georgia.g1.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Highscores"
+            android:label="    Highscores"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.georgia.g1.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Settings"
+            android:label="    Settings"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.georgia.g1.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Help"
+            android:label="    Help"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.georgia.g1.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

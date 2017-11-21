@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+   
+        <Preference 
+            android:key="score1"
+            android:title="score1"
+            android:defaultValue="1000000" />
+       
+   
+</PreferenceScreen>

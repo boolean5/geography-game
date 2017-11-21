@@ -1,0 +1,138 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_frame"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#c0e1ef" >
+
+    <ImageView
+        android:id="@+id/southcolored"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitCenter"
+        android:visibility="invisible"
+        android:src="@drawable/southcolored"
+        />
+    <ImageView
+        android:id="@+id/south"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/south"
+        />
+
+
+    <ImageView
+        android:id="@+id/uruguay"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/transparent"
+        />
+    <ImageView
+        android:id="@+id/paraguay"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/transparent"
+        /><ImageView
+    android:id="@+id/bolivia"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scaleType="fitCenter"
+    android:src="@drawable/transparent"
+    /><ImageView
+    android:id="@+id/argentina"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scaleType="fitCenter"
+    android:src="@drawable/transparent"
+    /><ImageView
+    android:id="@+id/chile"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scaleType="fitCenter"
+    android:src="@drawable/transparent"
+    /><ImageView
+    android:id="@+id/peru"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scaleType="fitCenter"
+    android:src="@drawable/transparent"
+    /><ImageView
+    android:id="@+id/ecuador"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scaleType="fitCenter"
+    android:src="@drawable/transparent"
+    /><ImageView
+    android:id="@+id/brazil"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scaleType="fitCenter"
+    android:src="@drawable/transparent"
+    /><ImageView
+    android:id="@+id/frenchguiana"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scaleType="fitCenter"
+    android:src="@drawable/transparent"
+    /><ImageView
+    android:id="@+id/suriname"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scaleType="fitCenter"
+    android:src="@drawable/transparent"
+    /><ImageView
+    android:id="@+id/guyana"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scaleType="fitCenter"
+    android:src="@drawable/transparent"
+    /><ImageView
+    android:id="@+id/venezuela"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scaleType="fitCenter"
+    android:src="@drawable/transparent"
+    />
+    <ImageView
+        android:id="@+id/colombia"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/transparent"
+        />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/country"
+        android:layout_gravity="right" />
+
+    <ImageView
+        android:id="@+id/flag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/noflag"
+        android:layout_gravity="top|right"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/timer"
+        android:text = "   0 sec"
+        android:layout_gravity="top|left" />
+
+    <ImageView
+        android:id="@+id/lives"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/the0lives"
+        android:layout_gravity="bottom|right"
+        />
+
+
+</FrameLayout>

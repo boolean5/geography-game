@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/georgia/AndroidStudioProjects/G1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/georgia/AndroidStudioProjects/G1/app/build/intermediates/pre-dexed/release/classes-27f367a3a13203cb3e064a152763520572096634.jar" />
+    </item>
+    <item
+        jar="/home/georgia/AndroidStudioProjects/G1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/georgia/AndroidStudioProjects/G1/app/build/intermediates/pre-dexed/release/internal_impl-22.1.1-40ac1e6cb618bd3d37da4612e9daf98967f92540.jar" />
+    </item>
+    <item
+        jar="/home/georgia/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/georgia/AndroidStudioProjects/G1/app/build/intermediates/pre-dexed/release/support-annotations-22.1.1-fe9ea13ee6d77c227ffe88925323aa5351835cd6.jar" />
+    </item>
+    <item
+        jar="/home/georgia/AndroidStudioProjects/G2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/georgia/AndroidStudioProjects/G2/app/build/intermediates/pre-dexed/debug/classes-46fc13422e68b3ac3824d121d62fd3032be4bcb7.jar" />
+    </item>
+    <item
+        jar="/home/georgia/AndroidStudioProjects/G2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/georgia/AndroidStudioProjects/G2/app/build/intermediates/pre-dexed/debug/classes-29e72c568e0b8fedd44d38d3e113d74b68d3fe03.jar" />
+    </item>
+    <item
+        jar="/home/georgia/AndroidStudioProjects/G1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/georgia/AndroidStudioProjects/G1/app/build/intermediates/pre-dexed/release/classes-004a2873332a7c19a1905468a243cfe3e5942a40.jar" />
+    </item>
+    <item
+        jar="/home/georgia/AndroidStudioProjects/G2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/georgia/AndroidStudioProjects/G2/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-19bea5d23dbf7cf3e863379cac1f5d4dec11ce2c.jar" />
+    </item>
+
+</items>
